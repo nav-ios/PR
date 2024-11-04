@@ -1,3 +1,4 @@
+//WorkoutModel.swift
 import Foundation
 
 class WorkoutModel {
@@ -22,7 +23,7 @@ class WorkoutModel {
     }
 }
 
-
+//WorkoutViewModel.swift
 import Foundation
 
 class WorkoutViewModel {
@@ -43,7 +44,7 @@ class WorkoutViewModel {
     }
 }
 
-
+//WorkoutViewController.swift
 import UIKit
 
 class WorkoutViewController: UIViewController {
@@ -69,6 +70,7 @@ class WorkoutViewController: UIViewController {
     }
 }
 
+//APIClient.swift
 import Foundation
 
 class APIClient {
